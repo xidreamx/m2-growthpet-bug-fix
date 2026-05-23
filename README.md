@@ -260,4 +260,3 @@ ITEM_MANAGER::instance().FlushDelayedSave(pkItemMaterial[0]);
 
 ---
 
-MIT. Free to use.
